@@ -18,7 +18,12 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9cce74b7-cc1e-465a-bde3-743b2b538b36" name="变更" comment="2" />
+    <list default="true" id="9cce74b7-cc1e-465a-bde3-743b2b538b36" name="变更" comment="2">
+      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NJU-CPL/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -99,7 +104,7 @@
       <workItem from="1675451434977" duration="604000" />
       <workItem from="1675452071208" duration="71000" />
       <workItem from="1675452251532" duration="1879000" />
-      <workItem from="1675459313048" duration="4081000" />
+      <workItem from="1675459313048" duration="6036000" />
     </task>
     <task id="LOCAL-00001" summary="2">
       <created>1675459871449</created>
@@ -161,19 +166,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="master" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>

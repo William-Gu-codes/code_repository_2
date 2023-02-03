@@ -1,0 +1,2 @@
+C:/Users/GDC/Desktop/code_repositories/code_repository_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/GDC/Desktop/code_repositories/code_repository_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
