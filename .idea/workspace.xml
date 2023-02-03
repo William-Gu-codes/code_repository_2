@@ -20,9 +20,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9cce74b7-cc1e-465a-bde3-743b2b538b36" name="变更" comment="3">
-      <change beforePath="$PROJECT_DIR$/SSH.txt" beforeDir="false" />
-    </list>
+    <list default="true" id="9cce74b7-cc1e-465a-bde3-743b2b538b36" name="变更" comment="4" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -110,7 +108,7 @@
       <workItem from="1675452251532" duration="1879000" />
       <workItem from="1675459313048" duration="6948000" />
       <workItem from="1675467884336" duration="97000" />
-      <workItem from="1675468005574" duration="424000" />
+      <workItem from="1675468005574" duration="510000" />
     </task>
     <task id="LOCAL-00001" summary="2">
       <created>1675459871449</created>
@@ -168,7 +166,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675468282311</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="4">
+      <created>1675468452443</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1675468452443</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -213,6 +218,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2" />
     <MESSAGE value="3" />
-    <option name="LAST_COMMIT_MESSAGE" value="3" />
+    <MESSAGE value="4" />
+    <option name="LAST_COMMIT_MESSAGE" value="4" />
   </component>
 </project>
