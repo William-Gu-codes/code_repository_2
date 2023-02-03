@@ -1,0 +1,68 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "NJU-CPL",
+					"jsonFile" : "directory-NJU-CPL-Debug-a85bf2468e9b1e3d1a49.json",
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "NJU-CPL",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "Project",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "hello::@7ce4f8341ada17098eb3",
+					"jsonFile" : "target-hello-Debug-cd68aeba49fbb7165e67.json",
+					"name" : "hello",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/GDC/Desktop/code_repositories/code_repository_2/cmake-build-debug",
+		"source" : "C:/Users/GDC/Desktop/code_repositories/code_repository_2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
